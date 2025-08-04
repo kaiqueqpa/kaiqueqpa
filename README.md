@@ -3,7 +3,7 @@
 Sobre mim: 
 - 🌱 Estou Estudando Javascript e Git
 - 👯 Procuro colaborar como estagiário 
-- 📫 Contatos: www.linkedin.com/in/kaique-quintiliano 
+
 
 ##
 
