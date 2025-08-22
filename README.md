@@ -1,9 +1,9 @@
 ## Bem vindo ao meu perfil  
 
 Sobre mim: 
-- 🌱 Estou Estudando Javascript e Git
-- 👯 Procuro colaborar como estagiário 
-- 🎓 Faço Faculdade de Gestão de T.I 
+- Me chamo Kaique e tenho um grande interesse em tecnologia e programação, querendo dar início nessa área.
+Atualmente procuro uma oportunidade de estágio para agregar para minha carreira e auxiliar com meus
+conhecimentos acadêmicos assim criando um ambiente com responsabilidade profissional
 
 ##
 
