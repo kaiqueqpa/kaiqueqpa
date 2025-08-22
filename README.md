@@ -1,4 +1,4 @@
-## Oi! Tudo bem?   
+## Bem vindo ao meu perfil  
 
 Sobre mim: 
 - 🌱 Estou Estudando Javascript e Git
